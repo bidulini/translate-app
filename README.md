@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This is a simple and cute translate app!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project is calling for google translate API and fetching translate results for Arabic, Hindi and Africaans.
 
 ## Available Scripts
 
